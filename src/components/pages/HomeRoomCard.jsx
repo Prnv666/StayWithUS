@@ -11,7 +11,7 @@ const HomeRoomCard = ({ room, index }) => {
     {
       id: "room-1",
       title: "Urbanza Suites",
-      image: "src/assets/roomImg1.png",
+      image: "/assets/roomImg1.png",
       address: "Main Road 123 Street, 23 Colony",
       price: 3999,
       rating: 4.5,
@@ -20,7 +20,7 @@ const HomeRoomCard = ({ room, index }) => {
     {
       id: "room-2",
       title: "Urbanza Suites",
-      image: "src/assets/roomImg1.png",
+      image: "/assets/roomImg1.png",
       address: "Main Road 123 Street, 23 Colony",
       price: 2999,
       rating: 4.5,
@@ -29,7 +29,7 @@ const HomeRoomCard = ({ room, index }) => {
     {
       id: "room-3",
       title: "Urbanza Suites",
-      image: "src/assets/roomImg1.png",
+      image: "/assets/roomImg1.png",
       address: "Main Road 123 Street, 23 Colony",
       price: 2499,
       rating: 4.5,

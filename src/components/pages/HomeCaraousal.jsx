@@ -1,6 +1,7 @@
 import React from "react";
 import HomeFeatureVid from "./HomeFeatureVid";
 
+
 const HomeCaraousal = () => {
   return (
     <>
@@ -16,21 +17,21 @@ const HomeCaraousal = () => {
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <img
-                    src="src/assets/maitriCar3.jpg"
+                    src='/assets/roomImg1.png'
                     className="d-block w-100 rounded"
                     alt="Slide 1"
                   />
                 </div>
                 <div className="carousel-item">
                   <img
-                    src="src/assets/roomImg4.png"
+                    src="/assets/roomImg4.png"
                     className="d-block w-100 rounded"
                     alt="Slide 2"
                   />
                 </div>
                 <div className="carousel-item">
                   <img
-                    src="src/assets/roomImg3.png"
+                    src="/assets/roomImg3.png"
                     className="d-block w-100 rounded"
                     alt="Slide 2"
                   />

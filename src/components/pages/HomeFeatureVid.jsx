@@ -12,7 +12,7 @@ const HomeFeatureVid = () => {
 
         <div className="ratio ratio-16x9 shadow rounded overflow-hidden">
           <video
-            src="src/assets/maitriVid.mp4"
+            src="/assets/maitriVid.mp4"
             autoPlay
             muted
             loop
