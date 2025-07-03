@@ -1,0 +1,22 @@
+/* NAVBAR */
+.transparent-navbar {
+  background-color: rgba(255, 255, 255, 0.354); /* very light */
+  backdrop-filter: blur(5px);
+  transition: all 0.3s ease-in-out;
+  border-bottom: none;
+  
+}
+
+.scrolled-navbar {
+  background-color: rgba(255, 255, 255, 0.438); /* semi-transparent */
+  backdrop-filter: blur(10px); /* blur effect */
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+
+.search{
+    font-size: 20px;
+}
+
